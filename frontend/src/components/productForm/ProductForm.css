@@ -1,0 +1,48 @@
+.add-product {
+    margin: 1rem;
+    padding: 1rem;
+    background: white;
+    border-radius: 1rem;
+}
+
+.code {
+    font-size: 1rem;
+    color: #fff;
+    background: #33333398;
+    padding: .1rem;
+    margin: .1rem;
+}
+
+.image-preview {
+    max-width: 500px;
+}
+
+.product-img {
+    border-radius: 1rem;
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid #333;
+}
+
+input {
+    border-radius: .5rem;
+    margin: .5rem;
+    padding: .5rem;
+
+}
+
+.product-details {
+    border-radius: 1rem;
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid #333;
+    font-size: 1.2rem;
+}
+
+.save-btn {
+    border-radius: 1rem;
+    margin: 1rem;
+    padding: 1rem;
+    font-size: 1.2rem;
+    background: skyblue;
+}

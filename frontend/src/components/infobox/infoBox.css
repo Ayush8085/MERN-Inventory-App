@@ -1,0 +1,17 @@
+.info-box {
+    width: 250px;
+    height: auto;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.info-box:hover {
+    box-shadow: -3px 18px 20px 0px rgba(0, 0, 0, .2);
+}
+
+.info-box .right-info-box {
+    color: #fff;
+    text-align: center;
+}
